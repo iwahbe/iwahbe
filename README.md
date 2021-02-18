@@ -4,11 +4,11 @@
   - I'm a TA for fundamental of Computer Science II. 
   - My senior thesis is about optimizing approximation algorithms for the Rural Postman Problem.
 - 🌱 I’m job hunting right now. 
-  - If your interested, you can contact me at @iwahbe on twitter or on LinkedIn with the same name.
+  - If you are interested, you can contact me at @iwahbe on Twitter or on LinkedIn with the same name.
 
 
 
-<details><summary>Anything can be complicated. Lets make the simple things simple.</summary>
+<details><summary>Anything can be complicated. Let's make the simple things simple.</summary>
 <p>
   
 ```rust
