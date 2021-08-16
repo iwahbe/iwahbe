@@ -1,10 +1,7 @@
 ### Hello world
 
-- 🔭 I’m currently a senior at Reed College.
-  - I'm a TA for fundamental of Computer Science II. 
-  - My senior thesis is about optimizing approximation algorithms for the Rural Postman Problem.
-- 🌱 I’m job hunting right now. 
-  - If you are interested, you can contact me at @iwahbe on Twitter or on LinkedIn with the same name.
+- I'm currently working at Pulumi as a Software Engineer. 
+- I'm available on twitter at @iwahbe or at linkedin at the same name. 
 
 
 
