@@ -1,7 +1,7 @@
 ### Hello world
 
 - I'm currently working at Pulumi as a Software Engineer. 
-- I'm available on twitter at @iwahbe or at linkedin at the same name. 
+- I'm available on most platforms as @iwahbe.
 
 
 
